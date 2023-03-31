@@ -1,6 +1,6 @@
 Name:		texlive-japanese-mathformulas
 Version:	64678
-Release:	1
+Release:	2
 Summary:	Compiling basic math formulas in Japanese using LuaLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/japanese-mathformulas
